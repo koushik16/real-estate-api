@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+
+# Static plots and temp files
+app/static/*.png
+
+# Matplotlib and cache folders
+.matplotlib/
+.cache/
+
+# System files
+.DS_Store
